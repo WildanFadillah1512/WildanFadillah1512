@@ -1,23 +1,21 @@
-<div align="center">
-  <img src="assets/hero-dashboard.svg" alt="Enterprise Command Center - Wildan Fadillah" width="100%" />
+<div align="left">
+  <img src="assets/hero-swiss.svg" alt="Wildan Fadillah - Enterprise Systems Architect" width="100%" />
+</div>
+
+<div align="left">
+  <img src="assets/tech-stack-swiss.svg" alt="Tech Stack and Core Competencies" width="100%" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="assets/tech-stack.svg" alt="Tech Stack and Skills" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
+<div align="left">
   <table>
     <tr>
-      <td align="center" width="50%" style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api?username=WildanFadillah1512&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=B14BF4&text_color=8B949E&border_color=21262d&hide_border=false" alt="GitHub Stats" />
+      <td align="left" width="50%" style="border: none; background: transparent; padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=WildanFadillah1512&show_icons=true&bg_color=F4F4F0&title_color=111111&text_color=111111&icon_color=E32636&border_color=111111&border_radius=0" alt="GitHub Stats" />
       </td>
-      <td align="center" width="50%" style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanFadillah1512&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&border_color=21262d&hide_border=false" alt="Top Languages" />
+      <td align="left" width="50%" style="border: none; background: transparent; padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanFadillah1512&layout=compact&bg_color=F4F4F0&title_color=111111&text_color=111111&border_color=111111&border_radius=0" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -25,8 +23,8 @@
 
 <br/>
 
-<div align="center">
-  <h3 style="color: #00F0FF; font-family: monospace;">&gt; CONTRIBUTION_GRID</h3>
+<div align="left">
+  <p style="font-family: monospace; font-size: 10px; color: #111111; letter-spacing: 1px;">02 // CONTRIBUTION_GRID</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake.svg">
@@ -36,13 +34,12 @@
 
 <br/>
 
-<div align="center">
-  <h3 style="color: #B14BF4; font-family: monospace;">&gt; ESTABLISH_CONNECTION</h3>
-  <br />
+<div align="left">
+  <p style="font-family: monospace; font-size: 10px; color: #111111; letter-spacing: 1px;">03 // ESTABLISH_CONNECTION</p>
   <a href="https://www.linkedin.com/in/wildan-fadillah/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117&color=B14BF4" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-F4F4F0?style=flat-square&logo=linkedin&logoColor=111111&labelColor=F4F4F0&color=111111" alt="LinkedIn" />
   </a>
   <a href="mailto:wfadillah228@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D1117&color=B14BF4" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-F4F4F0?style=flat-square&logo=gmail&logoColor=111111&labelColor=F4F4F0&color=111111" alt="Email" />
   </a>
 </div>
