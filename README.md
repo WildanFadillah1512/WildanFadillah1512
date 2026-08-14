@@ -33,29 +33,39 @@ I am a passionate Software Engineer focusing on **scalable architectures, robust
 <summary><code>$ ./get_system_stats.sh</code></summary>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WildanFadillah1512&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanFadillah1512&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <a href="https://github.com/WildanFadillah1512">
+    <img src="https://github-readme-stats.vercel.app/api?username=WildanFadillah1512&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/WildanFadillah1512">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanFadillah1512&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
 </details>
 
 <details>
 <summary><code>$ cat ./contribution_grid.log</code></summary>
 <br>
 
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</p>
 </details>
 
 <details>
 <summary><code>$ ping contacts.network</code></summary>
 <br>
 
-- 🔗 **LinkedIn**: [linkedin.com/in/wildan-fadillah](https://www.linkedin.com/in/wildan-fadillah/)
-- 📧 **Email**: [wfadillah228@gmail.com](mailto:wfadillah228@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/wildan-fadillah/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00F0FF&amp;labelColor=0D1117&amp;color=B14BF4" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wfadillah228@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=00F0FF&amp;labelColor=0D1117&amp;color=B14BF4" alt="Email" />
+  </a>
+</p>
 </details>
