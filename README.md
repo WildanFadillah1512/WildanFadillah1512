@@ -1,20 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Wildan+Fadillah;Full-Stack+Developer;Modern+Web+Architect" alt="Typing SVG" />
-  </a>
+  <h1>Hi, I'm Wildan Fadillah 👨‍💻</h1>
+  <p><b>Software Engineer | Full-Stack Developer | Modern Web Architect</b></p>
   <br/>
-  <i><b>Enterprise-Grade Dashboards & Complex Monitoring Systems</b></i>
-  <br/><br/>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/WildanFadillah1512/count.svg)
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=WildanFadillah1512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <i><b>Specializing in Enterprise-Grade Dashboards & Complex Monitoring Systems</b></i>
 </div>
 
 <br/>
@@ -44,26 +32,13 @@ I am a passionate Software Engineer focusing on **scalable architectures, robust
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 GitHub Contributions
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=WildanFadillah1512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanFadillah1512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192" />
-  </a>
-</div>
-
----
-
-## 🐍 Contribution Graph (Snake Animation)
-*(Animasi ular akan memakan grafik kontribusi Anda di bawah ini setelah GitHub Actions dijalankan)*
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
