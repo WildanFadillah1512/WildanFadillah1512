@@ -1,47 +1,51 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Wildan+Fadillah;Full-Stack+Developer;Always+learning+and+building" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="./assets/profile_banner.jpg" alt="Profile Banner" width="100%" />
 
-<h3 align="center">Welcome to my GitHub Profile! 🚀</h3>
+  <br />
+  <br />
 
-<br />
+  # Hi, I'm Wildan Fadillah 👨‍💻
+  
+  **Software Engineer | Full-Stack Developer | Modern Web Architect**
+</div>
 
-## 🧑‍💻 About Me
+---
 
-- 🔭 **Saat ini fokus pada**: Pengembangan Full-Stack (Vue, Laravel, TS)
-- 🌱 **Sedang memperdalam**: Arsitektur software dan praktik modern web
-- 💬 **Tanyakan saya tentang**: Vue, Laravel, TypeScript, atau Frontend Design
-- 📫 **Hubungi saya**: [LinkedIn](https://linkedin.com) | [Email](mailto:wildan@example.com)
+## 🚀 Professional Summary
 
-<br />
+I am a passionate Full-Stack Developer with extensive experience in building **Enterprise-Grade Dashboards** and **Complex Monitoring Systems**. My focus lies in designing scalable architectures, developing robust backends, and crafting intuitive user interfaces. 
+
+I thrive in environments that challenge me to solve intricate data management problems and streamline business operations through technology.
+
+## 💼 Areas of Expertise
+
+- **Enterprise Systems**: Development of large-scale dashboards, reporting tools, and complex data visualization.
+- **Frontend Architecture**: Building responsive, interactive, and highly optimized UI using modern frameworks.
+- **Backend Infrastructure**: Designing secure and efficient APIs to handle heavy business logic and data processing.
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<div align="center">
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,vue,php,laravel,mysql,git,vscode,figma,postman&theme=dark&perline=6" alt="Tech Stack" />
+  </a>
+</div>
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-</p>
+---
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
-
-<br />
-
-## 📊 GitHub Stats
+## 📫 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WildanFadillah1512&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanFadillah1512&layout=compact&theme=tokyonight" alt="Top Languages" height="192" />
+  <br />
+  Feel free to reach out to me for collaborations, tech discussions, or just to say hi!
+  <br /><br />
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wildan@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
