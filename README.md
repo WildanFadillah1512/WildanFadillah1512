@@ -1,40 +1,32 @@
 <div align="center">
-  <h1>Hi, I'm Wildan Fadillah 👨‍💻</h1>
-  <p><b>Software Engineer | Full-Stack Developer | Modern Web Architect</b></p>
-  <br/>
-  <i><b>Specializing in Enterprise-Grade Dashboards & Complex Monitoring Systems</b></i>
+  <img src="assets/hero-dashboard.svg" alt="Enterprise Command Center - Wildan Fadillah" width="100%" />
 </div>
 
 <br/>
 
----
-
-## 🚀 About Me & Expertise
-
-I am a passionate Software Engineer focusing on **scalable architectures, robust backends, and highly optimized user interfaces**. I thrive in environments that challenge me to solve intricate data management problems and streamline business operations.
-
-- 🏢 Specializing in **Enterprise Systems** & Large-scale Reporting Tools
-- ⚙️ **Backend Infrastructure**: Designing secure and efficient APIs
-- 🎨 **Frontend Architecture**: Building responsive, interactive UI
-
----
-
-## 🛠️ Tech Stack & Tools
-
-*Languages, Frameworks, and Tools I use to build robust applications:*
-
 <div align="center">
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,nextjs,react,tailwind,nodejs,postgres,vue,php,laravel,git,vscode,figma,postman&theme=dark&perline=8" alt="Tech Stack" />
-  </a>
+  <img src="assets/tech-stack.svg" alt="Tech Stack and Skills" width="100%" />
 </div>
 
----
-
-## 🐍 GitHub Contributions
+<br/>
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%" style="border: none; background: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api?username=WildanFadillah1512&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=B14BF4&text_color=8B949E&border_color=21262d&hide_border=false" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%" style="border: none; background: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanFadillah1512&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&border_color=21262d&hide_border=false" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3 style="color: #00F0FF; font-family: monospace;">&gt; CONTRIBUTION_GRID</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WildanFadillah1512/WildanFadillah1512/output/dist/github-contribution-grid-snake.svg">
@@ -42,16 +34,15 @@ I am a passionate Software Engineer focusing on **scalable architectures, robust
   </picture>
 </div>
 
----
-
-## 📫 Let's Connect!
+<br/>
 
 <div align="center">
+  <h3 style="color: #B14BF4; font-family: monospace;">&gt; ESTABLISH_CONNECTION</h3>
   <br />
   <a href="https://www.linkedin.com/in/wildan-fadillah/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117&color=B14BF4" alt="LinkedIn" />
   </a>
   <a href="mailto:wfadillah228@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D1117&color=B14BF4" alt="Email" />
   </a>
 </div>

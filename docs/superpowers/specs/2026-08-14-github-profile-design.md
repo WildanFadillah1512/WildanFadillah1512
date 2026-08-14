@@ -1,41 +1,38 @@
 # GitHub Profile README Design Spec
 
 ## Overview
-This document specifies the design and structure for the GitHub profile README for `WildanFadillah1512`. The goal is to create a modern, dynamic, and visually appealing profile that highlights the developer's tech stack, projects, and GitHub metrics.
+This document specifies the design and structure for the GitHub profile README for `WildanFadillah1512`.
+The chosen design direction is **The "Enterprise Command Center"**, which highlights the developer's expertise in Enterprise-Grade Dashboards & Complex Monitoring Systems.
 
 ## Architecture & Structure
-The README will follow a top-to-bottom layout, utilizing Markdown, HTML, and dynamic SVG widgets.
+The README utilizes HTML tables to create a grid layout, populated with highly customized, animated SVG widgets and dynamic statistic cards. The visual theme is Dark Mode / Glassmorphism with Cyan (`#00F0FF`) and Purple (`#B14BF4`) accents.
 
-### 1. Hero Header
-- **Typing Animation**: Using `readme-typing-svg` to display a dynamic greeting.
-  - Text lines: "Hi there 👋, I'm Wildan Fadillah", "Full-Stack Developer", "Always learning and building"
-  - Styling: Color `#00F0FF` (Cyan/Neon), size 22, center aligned.
+### 1. Hero Header (`assets/hero-dashboard.svg`)
+- A custom SVG imitating a terminal/dashboard booting up.
+- Features CSS `keyframes` for glowing text and pulse animations.
+- Displays the core identity: "Wildan Fadillah", "Software Engineer | Full-Stack Developer | Modern Web Architect".
 
-### 2. About Me
-A concise section using emoji bullet points:
-- 🔭 Saat ini fokus pada: Pengembangan Full-Stack (Vue, Laravel, TS)
-- 🌱 Sedang memperdalam: Arsitektur software dan praktik modern web
-- 💬 Tanyakan saya tentang: Vue, Laravel, TypeScript, atau Frontend Design
-- 📫 Hubungi saya: Melalui LinkedIn atau Email (Tautan akan disesuaikan di file)
+### 2. Tech Stack (`assets/tech-stack.svg`)
+- A custom SVG with a glassmorphism style (`rgba` fills and strokes).
+- Categorizes skills into `FRONTEND_LAYER`, `BACKEND_INFRA`, and `OPS_&_ARCHITECTURE`.
+- Uses a monospace font (`Fira Code`) to maintain the terminal aesthetic.
 
-### 3. Tech Stack & Tools
-Categorized skills using customized `shields.io` badges for a clean look.
-- **Frontend**: Vue.js, TypeScript, HTML5, CSS3
-- **Backend**: PHP, Laravel (Blade)
-- **Tools**: Git, VS Code
-- **Styling**: `for-the-badge` style with specific hex colors matching the brand of each technology.
+### 3. GitHub Stats
+- Uses `github-readme-stats` for dynamic metrics.
+- Two cards (Overall Stats & Top Languages) displayed side-by-side using an HTML table.
+- **Theme Config**: `tokyonight` base, customized with `bg_color=0D1117`, `title_color=00F0FF`, and `icon_color=B14BF4` to blend seamlessly with the dashboard.
 
-### 4. GitHub Stats
-Utilizing `github-readme-stats` to dynamically display GitHub metrics.
-- **Stat Cards**:
-  1. **Overall Stats**: Shows Stars, Commits, PRs, and Issues.
-  2. **Top Languages**: Shows a pie/bar chart of the most used languages in repositories.
-- **Theming**: Dark mode theme (e.g., `tokyonight`, `dracula`, or custom neon colors) to match the modern aesthetic. Both cards aligned side-by-side using an HTML table or flex/wrap equivalent in markdown.
+### 4. Contribution Grid (Snake Animation)
+- Integrated via `.github/workflows/generate-snake.yml`.
+- The dark mode snake is customized to match the theme:
+  - Snake color: Purple (`#B14BF4`)
+  - Dots color gradient: From Dark GitHub background (`#0D1117`) to Neon Cyan (`#00F0FF`).
+
+### 5. Contact / Establish Connection
+- Customized `shields.io` badges for LinkedIn and Email.
+- Badges use the dashboard colors: `#0D1117` background with Cyan logos and Purple text/borders.
 
 ## Testing & Verification
-- Verify that SVGs load correctly.
-- Ensure the layout remains intact on both desktop and mobile views (especially the side-by-side stats cards).
-- Confirm the `github-readme-stats` URLs correctly target the `WildanFadillah1512` username.
-
-## Out of Scope
-- Creating actual code repositories. This task focuses entirely on the profile README itself.
+- SVGs must render correctly on both desktop and mobile GitHub apps.
+- The `generate-snake.yml` workflow must run successfully and produce the customized palette.
+- No markdown parsing errors within the HTML table layout.
